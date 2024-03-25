@@ -14,7 +14,7 @@
 
 ### The proposed pipeline to build the HexAI-TJAtxt textual dataset:
 
-![alt text](https://github.com/pitthexai/HexAI-TJAtxt/blob/main/img/Data_in_Brief_Manuscript_Diagram_New.png  "HexAI-TJAtxt")
+![alt text](https://github.com/amiielab/TextMining_PubMed_MentalHealth/blob/main/img/Process.png  "Mental Health Research")
 </p>
 <p>Utilizing this proposed pipeline, the HexAI-TJAtxt dataset will be frequently updated in a bi-monthly manner employing new abstracts published at PubMed.
 </p>
