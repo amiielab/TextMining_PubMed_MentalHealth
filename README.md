@@ -9,9 +9,9 @@
 <p>Utilizing this proposed pipeline, the HexAI-TJAtxt dataset will be frequently updated in a bi-monthly manner employing new abstracts published at PubMed.
 </p>
 
-### Folders: 
-<p>Here, you can <strong>download</strong> the HexAI-TJAtxt dataset.</p>
-<p>Trained_Models: This folder includes both Word2Vec and Glove models trained using the entire dataset.</p>
+### GitHub Folders: 
+
+<p><strong>Trained_Models: This folder includes both Word2Vec and Glove models trained using the entire dataset.</p>
 <p>Codes: This folder includes all Python Implementations.</p>
 
 ### Collaborators:
@@ -23,10 +23,10 @@
 + <a href="" target="_blank">Nickolas Littlefield<a>,MS
 + <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA
 + <a href="https://www.pace.edu/news/joseph-r-franco-phd-named-pace-university-provost" target="_blank">Joseph R. Franco</a>, PhD
-+ <a href="https://www.shrs.pitt.edu/people/ikenna-ebuenyi" target="_blank">Ikenna Ebuenyi</a>
++ <a href="https://www.shrs.pitt.edu/people/ikenna-ebuenyi" target="_blank">Ikenna Ebuenyi</a>, PhD
 
 ### Publications:
 
-<p align="justify">The <strong>HexAI-TJAtxt</strong> dataset is fully explained in the following paper published at the <strong>Data in Brief</strong> journal. Any publication using the dataset would require to cite the following work:
+<p align="justify">The current contribution is fully explained in the following manuscript (under review now). Any publication using the dataset or methods would require to cite the following work:
 <p align="justify">
-<strong>[1]</strong> Amirian S et al. Advancing Psychosocial Rehabilitation and Psychosocial Disability Research through Large Language Models and Computational Text Mining. Cambridge Prisms: Global Mental Health. 2024 April. [<a href="https://www.cambridge.org/core/journals/global-mental-health" target="_blank">Paper</a>]</p>
+<strong>[1]</strong> Amirian et al. Advancing Psychosocial Rehabilitation and Psychosocial Disability Research through Large Language Models and Computational Text Mining. Cambridge Prisms: Global Mental Health. 2024 April. [<a href="https://www.cambridge.org/core/journals/global-mental-health" target="_blank">Paper</a>]</p>
