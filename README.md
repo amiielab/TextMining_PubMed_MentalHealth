@@ -20,7 +20,7 @@
 + <a href="" target="_blank">Boby John Loganathan</a>
 + <a href="" target="_blank">Vedraj Chavanr</a>
 + <a href="" target="_blank">Punith Kandula</a>
-+ <a href="" target="_blank">Nickolas Littlefield<a>,MS
++ <a href="" target="_blank">Nickolas Littlefield<a>, MS
 + <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA
 + <a href="https://www.pace.edu/news/joseph-r-franco-phd-named-pace-university-provost" target="_blank">Joseph R. Franco</a>, PhD
 + <a href="https://www.shrs.pitt.edu/people/ikenna-ebuenyi" target="_blank">Ikenna Ebuenyi</a>, PhD
