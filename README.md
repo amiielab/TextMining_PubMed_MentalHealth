@@ -11,8 +11,8 @@
 
 ### GitHub Folders: 
 
-<p><strong>Trained_Models: This folder includes both Word2Vec and Glove models trained using the entire dataset.</p>
-<p>Codes: This folder includes all Python Implementations.</p>
+<p><strong>Trained_Models:</strong> This folder includes both Word2Vec and Glove models trained using the entire dataset.</p>
+<p><strong>Codes:</strong> This folder includes all Python Implementations.</p>
 
 ### Collaborators:
 + <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
