@@ -29,4 +29,4 @@
 
 <p align="justify">The current contribution is fully explained in the following manuscript (under review now). Any publication using the dataset or methods would require to cite the following work:
 <p align="justify">
-<strong>[1]</strong> Amirian et al. Advancing Psychosocial Rehabilitation and Psychosocial Disability Research through Large Language Models and Computational Text Mining. Cambridge Prisms: Global Mental Health. 2024 April. [<a href="https://www.cambridge.org/core/journals/global-mental-health" target="_blank">Paper</a>]</p>
+<strong>[1]</strong> Amirian et al. Advancing Psychosocial Rehabilitation and Psychosocial Disability Research through Large Language Models and Computational Text Mining. [<a href="https://www.cambridge.org/core/journals/global-mental-health" target="_blank">Cambridge Prisms: Global Mental Health</a>]. April 2024. </p>
